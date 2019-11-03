@@ -13,6 +13,7 @@ That file can be obtained at Google's official website or here: https://drive.go
 Note: Although our network only represented cases of Racism/Sexism, we believe with the correct datasets that this neural network could be expanded to represent all cases of offensive language. Our goal with this algorithm is to raise awareness for our presence on social media and how it could potentially affect others. 
 
 Click the image below to see our demonstration video:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HAQ3fkJq17Y
 " target="_blank"><img src="http://img.youtube.com/vi/HAQ3fkJq17Y/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
