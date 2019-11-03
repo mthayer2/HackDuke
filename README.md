@@ -14,4 +14,6 @@ Note: Although our network only represented cases of Racism/Sexism, we believe w
 
 Click the image below to see our demonstration video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HAQ3fkJq17Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v="HAQ3fkJq17Y"
+target="_blank"><img src="http://img.youtube.com/vi/HAQ3fkJq17Y/0.jpg" 
+alt="Demonstration video" width="240" height="180" border="10" /></a>
