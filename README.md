@@ -1,4 +1,4 @@
-# HackDuke-2019 Offensive Language Covolutional Neural Network
+# HackDuke-2019 Offensive Language Convolutional Neural Network
 This repository contains my team's submission for HackDuke 2019. Our team consists of: Ara Chung, Duc Le, Matthew Thayer, and I, Storm King.
 
 The Twitter_NN.ipynb file is the main file showcasing our work here at the hackathon.
